@@ -22,3 +22,5 @@ Amsterdam Icon by _ProSymbols_ from [the Noun Project](https://thenounproject.co
 
 ## Contributions
 In case you're thinking of improving this project, or adding support for other cities as well, then you can go ahead and open up a pull request or issue in this repository. 
+
+TEST
